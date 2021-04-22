@@ -1,6 +1,6 @@
 = 新建项目
 
-:source-highlighter: rouge
+:source-highlighter: highlight.js
 
 [source, csharp]
 ----
