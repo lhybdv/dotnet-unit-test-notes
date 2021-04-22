@@ -1,5 +1,7 @@
 = 新建项目
 
+:source-highlighter: rouge
+
 [source, csharp]
 ----
 namespace Message
